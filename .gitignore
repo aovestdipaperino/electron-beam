@@ -1,1 +1,23 @@
 /target
+
+# Generated test files
+*.png
+*.gif
+*.jpeg
+*.jpg
+
+# Temporary files
+create_test_image.rs
+create_test_png.py
+
+# Demo outputs
+demo_output/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.tmp
+*~

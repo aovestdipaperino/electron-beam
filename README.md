@@ -4,9 +4,11 @@ A Rust library and CLI tool for creating nostalgic CRT-style turn-off animations
 
 ElectronBeam faithfully recreates the classic cathode-ray tube (CRT) television and monitor turn-off effect, complete with horizontal and vertical stretching, color separation, and the characteristic electron beam collapse that defined an era of computing and entertainment.
 
-![ElectronBeam Demo](https://img.shields.io/badge/Rust-1.70+-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Build Status](https://img.shields.io/badge/Build-Passing-green.svg)
+[![CI](https://github.com/aovestdipaperino/electron-beam/workflows/CI/badge.svg)](https://github.com/aovestdipaperino/electron-beam/actions)
+[![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://www.rust-lang.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Crates.io](https://img.shields.io/crates/v/electron-beam.svg)](https://crates.io/crates/electron-beam)
+[![Documentation](https://docs.rs/electron-beam/badge.svg)](https://docs.rs/electron-beam)
 
 ## ✨ Features
 
@@ -35,7 +37,7 @@ cargo install electron-beam
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/electron-beam.git
+git clone https://github.com/aovestdipaperino/electron-beam.git
 cd electron-beam
 cargo build --release
 ```
@@ -190,7 +192,7 @@ This generates:
 ### Build Steps
 
 ```bash
-git clone https://github.com/yourusername/electron-beam.git
+git clone https://github.com/aovestdipaperino/electron-beam.git
 cd electron-beam
 cargo build --release
 ```
@@ -284,8 +286,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Documentation](https://docs.rs/electron-beam)
 - [Crates.io](https://crates.io/crates/electron-beam)
-- [GitHub Repository](https://github.com/yourusername/electron-beam)
-- [Issue Tracker](https://github.com/yourusername/electron-beam/issues)
+- [GitHub Repository](https://github.com/aovestdipaperino/electron-beam)
+- [Issue Tracker](https://github.com/aovestdipaperino/electron-beam/issues)
 
 ---
 
