@@ -1,0 +1,71 @@
+# Rust build artifacts
+target/
+Cargo.lock
+
+# Git files
+.git/
+.gitignore
+
+# Generated test files and outputs
+*.png
+*.gif
+*.jpeg
+*.jpg
+demo_output/
+test_*.png
+output_*.gif
+
+# Documentation and meta files
+README.md
+LICENSE
+*.md
+docs/
+
+# CI/CD and development files
+.github/
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
+.#*
+
+# Development scripts
+demo.sh
+create_test_image.rs
+create_test_png.py
+
+# Dependency checking
+deny.toml
+
+# IDE and editor files
+*.sublime-*
+*.code-workspace
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# Examples (not needed in runtime container)
+examples/
+
+# Test artifacts
+cobertura.xml
+tarpaulin-report.html
