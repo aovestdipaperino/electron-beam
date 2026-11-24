@@ -1,5 +1,7 @@
 # ElectronBeam 📺✨
 
+[![GitHub stars](https://img.shields.io/github/stars/aovestdipaperino/electron-beam?logo=github&color=brightgreen)](https://github.com/aovestdipaperino/electron-beam/stargazers)
+
 A Rust library and CLI tool for creating nostalgic CRT-style turn-off animations from PNG images to GIF format.
 
 ElectronBeam faithfully recreates the classic cathode-ray tube (CRT) television and monitor turn-off effect, complete with horizontal and vertical stretching, color separation, and the characteristic electron beam collapse that defined an era of computing and entertainment.
